@@ -1,2 +1,14 @@
-# Zabeer-Mohammad-Portfolio
-Responsive personal portfolio website showcasing my projects, skills, and contact information using HTML, CSS, and JavaScript.
+# My Portfolio
+
+Personal portfolio website built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Projects section
+- About me
+- Contact form
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
